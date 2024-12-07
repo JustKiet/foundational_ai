@@ -1,17 +1,29 @@
 # FOUNDATIONAL AI ALGORITHM AND PROJECTS (FAAAP)
 
 ## THEME 1: RESEARCH ON GENERAL INTELLIGENCE AND BUILD PROTOTYPES FOR SEARCH ALGORITHMS
-- [] PROTOTYPE FOR BLIND SEARCH IN GRAPHS: BREADTH FIRST SEARCH & DEPTH FIRST SEARCH
-- [] PROTOTYPE FOR BUILDING AND/OR GRAPHS, REDUCED GRAPHS & APPLY BFS, DFS
-- [] PROTOTYPE FOR IMPLEMENTING HEURISTIC SEARCH: GREEDY BEST FIRST SEARCH & HILL CLIMBING SEARCH
-- [] PROTOTYPE FOR A* SEARCH
-- [] PROTOTYPE FOR BRANCH AND BOUND
-- [] PROTOTYPE FOR BEST FIRST SEARCH ALGORITHM
-- [] PROTOTYPE FOR EVOLUTIONARY SEARCH & GENETIC ALGORITHM
-- [] PROTOTYPE FOR CONVERTING EXPRESSIONS TO CONJUNCTIVE NORMAL FORM (CNF), DISJUNCTIVE NORMAL FORM (DNF) OR HORN FORM
-- [] PROTOTYPE FOR CONVERTING EXPRESSIONS TO DISJUNCTIVE NORMAL FORM (DNF), ALGORITHM FOR AUTOMATIC PROOF OF SEPARATION - CONVERSION TO WONG. H AND FINDING THE RESIDUAL LAW SET.
-- [] PROTOTYPE FOR CONVERTING EXPRESSIONS TO DISJUNCTIVE NORMAL FORM (DNF), ALGORITHM FOR AUTOMATIC PROOF OF ROBINSON'S RESOLUTION AND FINDING THE RESIDUAL LAW SET.
-- [] PROTOTYPE FOR CONVERTING EXPRESSIONS TO HORN FORM AND BUILDING FORWARD CHAINING ALGORITHM IN KNOWLEDGE PROCESSING TECHNOLOGY AND FINDING THEE RESIDUAL LAW SET.
-- [] PROTOTYPE FOR CONVERTING EXPRESSIONS TO HORN FORM AND BUILDING BACKWARD CHAINING ALGORITHM IN KNOWLEDGE PROCESSING TECHNOLOGY AND FINDING THE RESIDUAL LAW SET.
+- [] Prototype for Blind Search in Graphs: Breadth First Search & Depth First Search
+- [] Prototype for Building and/Or Graphs, Reduced Graphs & Apply BFS, DFS
+- [] Prototype for Implementing Heuristic Search: Greedy Best First Search & Hill Climbing Search
+- [] Prototype for A* Search
+- [] Prototype for Branch and Bound
+- [] Prototype for Best First Search Algorithm
+- [] Prototype for Evolutionary Search & Genetic Algorithm
+- [] Prototype for Converting Expressions to Conjunctive Normal Form (CNF), Disjunctive Normal Form (DNF) or Horn Form
+- [] Prototype for Converting Expressions to Disjunctive Normal Form (DNF), Algorithm for Automatic Proof of Separation - Conversion to Wong. H and Finding the Residual Law Set.
+- [] Prototype for Converting Expressions to Disjunctive Normal Form (DNF), Algorithm for Automatic Proof of Robinson's Resolution and Finding the Residual Law Set.
+- [] Prototype for Converting Expressions to Horn Form and Building Forward Chaining Algorithm in Knowledge Processing Technology and Finding the Residual Law Set.
+- [] Prototype for Converting Expressions to Horn Form and Building Backward Chaining Algorithm in Knowledge Processing Technology and Finding the Residual Law Set.
 
 ## THEME 2: RESEARCH ON MACHINE LEARNING ALGORITHMS AND BUILD PROTOTYPES FOR MACHINE LEARNING ALGORITHM
+- [x] Prototype for Ordinary Least Squares (OLS) Linear Regression Algorithm
+- [x] Prototype for Ridge Linear Regression Algorithm
+- [x] Prototype for LASSO Linear Regression Algorithm
+- [] Prototype for Logistic Regression Algorithm
+- [] Prototype for Naive Bayes Classification Algorithm
+- [] Prototype for SVM Vector Machine Classification Algorithm
+- [] Prototype for ID3 Decision Tree
+- [] Prototype for C4.5 Decision Tree
+- [] Prototype for CART Regression Decision Tree
+- [] Prototype for Random Forest Classification
+- [] Prototype for K Nearest Neighbours
+- [] Prototype for CNN
