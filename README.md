@@ -28,9 +28,9 @@
 - [] Prototype for K Nearest Neighbours
 - [] Prototype for CNN
 
-## THEME 3: RESEARCH ON DEEP LEARNING ALGORITHM
+## THEME 3: RESEARCH ON DEEP LEARNING ALGORITHMS
 - [] Research LSTM in Recurrent Neural Networks (RNN) and build an Encoder-Decoder prototype for an English text.
 - [] Research biLSTM in Recurrent Neural Networks (RNN) and build an Encoder-Decoder prototype for an English text.
 - [] Research GRU in Recurrent Neural Networks (RNN) and build an Encoder-Decoder prototype for an English text.
 - [] Research biGRU in Recurrent Neural Networks (RNN) and build an Encoder-Decoder prototype for an English text.
-- Research Convolutional Neural Networks (CNNs) and build a prototype for identifying Traffic Signs.
+- [] Research Convolutional Neural Networks (CNNs) and build a prototype for identifying Traffic Signs.
